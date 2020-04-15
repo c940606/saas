@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+# pycharm
+.idea/
+.DS_Store
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+local_setting.py
+*.sqlite3
+
+# database migrations
+*/migrations/*.py
+!*/migrations/__init__.py
