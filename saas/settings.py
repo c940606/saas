@@ -121,6 +121,6 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 try:
-    from .local__setting import *
+    from .local_setting import *
 except ImportError:
     pass
